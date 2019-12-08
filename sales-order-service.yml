@@ -1,0 +1,2 @@
+sales-order-service:
+  errorMsg: From PCF Unable to Process the Order. Please check the customer ID, items and order Date.
