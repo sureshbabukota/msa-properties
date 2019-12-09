@@ -1,0 +1,4 @@
+items-service:
+  default_id: 9999
+  default_description: Item not available Please check later
+  default_price: 25.30
